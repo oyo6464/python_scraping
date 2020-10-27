@@ -1,0 +1,7 @@
+リンク1
+https://www.ymori.com/books/python2nen/test1.html
+
+リンク2
+https://www.ymori.com/books/python2nen/test3.html
+
+このテキストは06 リンク一覧をファイルに書き出す.pyからの自動生成
